@@ -2944,8 +2944,8 @@
       border-radius: 8px;
       background: #f8f8f8;
       &:hover {
-        outline: 1px solid #ffa800;
-        background: #fff9ed;
+        outline: 1px solid var(--accent-color);
+        background: #a9f5e51c;
       }
       .icon {
         min-width: 70px;
